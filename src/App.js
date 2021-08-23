@@ -1,7 +1,5 @@
 import logo from './logo.svg';
 import './App.css';
-import AccessAlarmIcon from '@material-ui/icons/AccessAlarm';
-import ThreeDRotation from '@material-ui/icons/ThreeDRotation';
 import Button from '@material-ui/core/Button';
 
 function App() {
