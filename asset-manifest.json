@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/CryptoFans/static/css/main.a617e044.chunk.css",
+    "main.js": "/CryptoFans/static/js/main.4ccb83b1.chunk.js",
+    "main.js.map": "/CryptoFans/static/js/main.4ccb83b1.chunk.js.map",
+    "runtime-main.js": "/CryptoFans/static/js/runtime-main.6751c6c8.js",
+    "runtime-main.js.map": "/CryptoFans/static/js/runtime-main.6751c6c8.js.map",
+    "static/js/2.e8fa4133.chunk.js": "/CryptoFans/static/js/2.e8fa4133.chunk.js",
+    "static/js/2.e8fa4133.chunk.js.map": "/CryptoFans/static/js/2.e8fa4133.chunk.js.map",
+    "static/js/3.1a7bb2d1.chunk.js": "/CryptoFans/static/js/3.1a7bb2d1.chunk.js",
+    "static/js/3.1a7bb2d1.chunk.js.map": "/CryptoFans/static/js/3.1a7bb2d1.chunk.js.map",
+    "index.html": "/CryptoFans/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/CryptoFans/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.e8fa4133.chunk.js.LICENSE.txt": "/CryptoFans/static/js/2.e8fa4133.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/CryptoFans/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6751c6c8.js",
+    "static/js/2.e8fa4133.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.4ccb83b1.chunk.js"
+  ]
+}
