@@ -1,8 +1,8 @@
 {
   "name": "dapage",
-  "version": "0.1.0",
-  "private": true,
-  "homepage": "https://lottored.github.io/CryptoFans",
+  "version": "0.2.0",
+  "private": false,
+  "homepage": "https://cryptofans.tk",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^5.14.1",
