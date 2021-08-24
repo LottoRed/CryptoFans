@@ -2,7 +2,7 @@
   "name": "dapage",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://lottored.github.io/CryptoFans2/",
+  "homepage": "https://lottored.github.io/CryptoFans/",
   "dependencies": {
     "@material-ui/core": "^4.12.3",
     "@testing-library/jest-dom": "^5.14.1",
@@ -38,8 +38,5 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  },
-  "devDependencies": {
-    "gh-pages": "^3.2.3"
   }
 }
